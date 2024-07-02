@@ -1,0 +1,9 @@
+Setting up [LPIPS] perceptual loss: trunk [alex], v[0.1], spatial [off]
+Loading model from: /home/girish/miniconda3/envs/test/lib/python3.11/site-packages/lpips/weights/v0.1/alex.pth
+Setting up [LPIPS] perceptual loss: trunk [vgg], v[0.1], spatial [off]
+Loading model from: /home/girish/miniconda3/envs/test/lib/python3.11/site-packages/lpips/weights/v0.1/vgg.pth
+outputs will be saved to ./out/gnt_full
+training dataset: ibrnet_collected+llff
+weights:[0.45, 0.55]
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA ./out/gnt_full
+Reloading from ./out/gnt_full/model_050001.pth, starting at step=50001
